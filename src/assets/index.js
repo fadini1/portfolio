@@ -31,8 +31,10 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import airbnbclone from './airbnbclone.png';
 import movieapp from './movieapp.png';
+import coffeestore from './coffeestore.png';
 
 export {
+  coffeestore,
   movieapp,
   airbnbclone,
   logo,
@@ -62,5 +64,5 @@ export {
   tesla,
   carrent,
   jobit,
-  tripguide,
+  tripguide
 };

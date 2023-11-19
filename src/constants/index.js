@@ -24,7 +24,8 @@ import {
   tripguide,
   threejs,
   airbnbclone,
-  movieapp
+  movieapp,
+  coffeestore
 } from "../assets";
 
 export const navLinks = [
@@ -48,7 +49,7 @@ const services = [
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Reactjs Developer",
     icon: mobile,
   },
   {
@@ -175,6 +176,28 @@ const projects = [
     ],
     image: movieapp,
     source_code_link: "https://github.com/fadini1/bonfire-movie-app",
+  },
+
+  {
+    name: "E-Commerce Store",
+    description:
+      "A fully functional E-Commerce for a Coffee Shop. It includes sections such as Featured Products, About Us, Testimonials and Contact, as well as the ability to switch between Light and Dark Mode. With an integrated Stripe Checkout, customers can add any number of Products to the Cart and buy them right away!",
+    tags: [
+      {
+        name: "typescript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "tailwindcss",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "stripe",
+        color: "green-text-gradient",
+      },
+    ],
+    image: coffeestore,
+    source_code_link: "https://github.com/fadini1/coffee-store",
   },
   // {
   //   name: "Trip Guide",
