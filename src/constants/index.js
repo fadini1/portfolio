@@ -178,31 +178,31 @@ const projects = [
     source_code_link: "https://github.com/fadini1/bonfire-movie-app",
   },
 
-  {
-    name: "E-Commerce Store",
-    description:
-      "A fully functional E-Commerce for a Coffee Shop. It includes sections such as Featured Products, About Us, Testimonials and Contact, as well as a Dark Mode feature. With an integrated Stripe Checkout, customers can add any number of Products to the Cart and buy them right away!",
-    tags: [
-      {
-        name: "typescript",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "tailwindcss",
-        color: "pink-text-gradient",
-      },
-      {
-        name: "stripe",
-        color: "green-text-gradient",
-      },
-      {
-        name: "prisma",
-        color: "orange-text-gradient",
-      }
-    ],
-    image: coffeestore,
-    source_code_link: "https://github.com/fadini1/coffee-store",
-  },
+  // {
+  //   name: "E-Commerce Store",
+  //   description:
+  //     "A fully functional E-Commerce for a Coffee Shop. It includes sections such as Featured Products, About Us, Testimonials and Contact, as well as a Dark Mode feature. With an integrated Stripe Checkout, customers can add any number of Products to the Cart and buy them right away!",
+  //   tags: [
+  //     {
+  //       name: "typescript",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwindcss",
+  //       color: "pink-text-gradient",
+  //     },
+  //     {
+  //       name: "stripe",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "prisma",
+  //       color: "orange-text-gradient",
+  //     }
+  //   ],
+  //   image: coffeestore,
+  //   source_code_link: "https://github.com/fadini1/coffee-store",
+  // },
   // {
   //   name: "Trip Guide",
   //   description:
